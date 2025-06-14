@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iast/Downloads/BowlingGame/src/BowlingGame.cpp
+BowlingGame.h
+/home/iast/Downloads/BowlingGame/src/BowlingGame.h
+iostream
+-
+stdexcept
+-
+
+/home/iast/Downloads/BowlingGame/src/BowlingGame.h
+Frame.h
+/home/iast/Downloads/BowlingGame/src/Frame.h
+vector
+-
+
+/home/iast/Downloads/BowlingGame/src/Frame.cpp
+Frame.h
+/home/iast/Downloads/BowlingGame/src/Frame.h
+stdexcept
+-
+
+/home/iast/Downloads/BowlingGame/src/Frame.h
+
+/home/iast/Downloads/BowlingGame/test/BowlingGameTest.cpp
+../src/BowlingGame.h
+/home/iast/Downloads/BowlingGame/src/BowlingGame.h
+cassert
+-
+iostream
+-
+

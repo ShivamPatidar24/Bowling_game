@@ -1,0 +1,4 @@
+/home/iast/Downloads/BowlingGame/build/CMakeFiles/rebuild_cache.dir
+/home/iast/Downloads/BowlingGame/build/CMakeFiles/edit_cache.dir
+/home/iast/Downloads/BowlingGame/build/CMakeFiles/bowling_test.dir
+/home/iast/Downloads/BowlingGame/build/CMakeFiles/bowling.dir
